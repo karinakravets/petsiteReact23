@@ -5,7 +5,7 @@ import QuickSearch from "./quickSearch";
 const Header = ()=>{
     return (
         <div className="d-flex">
-            <nav className="navbar navbar-expand-lg navbar-light">
+            <nav className="navbar navbar-light">
                 <div className="container-fluid">
                     {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                    
